@@ -87,8 +87,11 @@ actions.
 interaction with the people involved, including unsolicited interaction with
 those enforcing the Code of Conduct, for a specified period of time. This
 includes avoiding interactions in community spaces as well as external channels
-like social media and forums. Violating these terms may lead to a temporary or permanent
-ban.
+like social media and forums. 
+
+Although this list cannot be exhaustive, we explicitly honor diversity in age, culture, ethnicity, gender identity or expression, language, national origin, political beliefs, profession, race, religion, sexual orientation, socioeconomic status, and technical ability. We will not tolerate discrimination based on any of the protected characteristics above, including participants with disabilities.
+
+Violating these terms may lead to a temporary or permanent ban.
 
 ### 3. Temporary Ban
 
