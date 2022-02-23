@@ -4,12 +4,7 @@
 
 * [Contributors](#contributors)
 * [Maintainers](#maintainers)
-  * [Collaborator activities](#collaborator-activities)
-* [Technical steering committee](#technical-steering-committee)
-  * [TSC meetings](#tsc-meetings)
-* [Collaborator nominations](#collaborator-nominations)
-  * [Onboarding](#onboarding)
-* [Consensus seeking process](#consensus-seeking-process)
+* [Governance Committee](#governance-committee)
 
 <!-- /TOC -->
 
@@ -28,19 +23,14 @@ Anyone with a GitHub account may use the project issue trackers and communicatio
 ## Maintainers
 
 Maintainers have write access GitHub repositories and act as project administrators. They approve and merge pull requests, cut releases, and guide collaboration with the community. They have:
-The GitHub team for Node.js core collaborators is @nodejs/collaborators.
-Collaborators have:
 
 * Commit access to their project's repositories
 * Write access to continuous integration (CI) jobs
 
 Both maintainers and non-maintainers may propose changes to 
-source code. The mechanism to propose such a change is a GitHub pull request.
-Maintainers review and merge (_land_) pull requests.
+source code. The mechanism to propose such a change is a GitHub pull request. Maintainers review and merge (_land_) pull requests.
 
-If a maintainer opposes a proposed change, then the change cannot land. The
-exception is if the TSC votes to approve the change despite the opposition.
-Usually, involving the TSC is unnecessary.
+If a maintainer opposes a proposed change, then the change cannot land. The exception is if the Governance Committee (GC) votes to approve the change despite the opposition. Usually, involving the GC is unnecessary.
 
 See:
 
@@ -55,23 +45,23 @@ See:
 * Participation in working groups
 * Merging pull requests
 
-## Technical Steering Committee
+## Governance Committee
 
-A subset of the collaborators forms the Technical Steering Committee (TSC).
-The TSC has final authority over this project, including:
+The TBD Open Source Governance Committee (GC) has final authority over this project, including:
 
 * Technical direction
 * Project governance and process (including this policy)
 * Contribution policy
 * GitHub repository hosting
 * Conduct guidelines
-* Maintaining the list of collaborators
+* Maintaining the list of maintainers
 
-The current list of TSC members is:
+The current GC members are:
 
-* Andrew Lee Rubinger, TBD Head of Open Source
-* Angie Jones, TBD Head of Developer Relations
-* Julie Kim, Block Lead of TBD Legal
-* ...
+* Angie Jones, Head of Developer Relations, TBD
+* Julie Kim, Head of Legal, TBD
+* Nidhi Nahar, Head of Patents and Open Source, Block
+* Andrew Lee Rubinger, Head of Open Source, TBD
+* Max Sills, Counsel for Intellectual Property, Block
 
-The TSC is reached via (TODO) and is an available resource in mediation or for sensitive cases beyond the scope of project maintainers. It operates as a "Self-appointing council or board" as defined by Red Hat: [Open Source Governance Models](https://www.redhat.com/en/blog/understanding-open-source-governance-models).
+Members are not to be contacted individually. The GC may be reached through `tbd-open-source-governance@@squareup.com` and is an available resource in mediation or for sensitive cases beyond the scope of project maintainers. It operates as a "Self-appointing council or board" as defined by Red Hat: [Open Source Governance Models](https://www.redhat.com/en/blog/understanding-open-source-governance-models).
