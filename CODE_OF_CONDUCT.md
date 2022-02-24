@@ -1,5 +1,5 @@
 
-# Contributor Covenant Code of Conduct
+# TBD Code of Conduct
 
 TBD builds infrastructure for the next wave of innovation in financial services — which we believe will be decentralized, permissionless, and non-custodial. This means opening the global economy to everyone. We extend the same principles of inclusion to our developer ecosystem. We are excited to build with you. So we will ensure our community is truly open, transparent and inclusive. Because of the global nature of our project, diversity and inclusivity is paramount to our success. We not only welcome diverse perspectives, we **need** them!
 
