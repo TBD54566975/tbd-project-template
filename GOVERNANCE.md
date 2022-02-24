@@ -10,7 +10,7 @@
 
 ## Contributors
 
-Anyone may be an contributor to TBD projects. Contribution may take the form of:
+Anyone may be a contributor to TBD projects. Contribution may take the form of:
 
 * Asking and answering questions on the development forums
 * Filing an issue
@@ -22,7 +22,7 @@ Anyone with a GitHub account may use the project issue trackers and communicatio
 
 ## Maintainers
 
-Maintainers have write access GitHub repositories and act as project administrators. They approve and merge pull requests, cut releases, and guide collaboration with the community. They have:
+Maintainers have write access to GitHub repositories and act as project administrators. They approve and merge pull requests, cut releases, and guide collaboration with the community. They have:
 
 * Commit access to their project's repositories
 * Write access to continuous integration (CI) jobs
@@ -64,4 +64,4 @@ The current GC members are:
 * Andrew Lee Rubinger, Head of Open Source, TBD
 * Max Sills, Counsel for Intellectual Property, Block
 
-Members are not to be contacted individually. The GC may be reached through `tbd-open-source-governance@@squareup.com` and is an available resource in mediation or for sensitive cases beyond the scope of project maintainers. It operates as a "Self-appointing council or board" as defined by Red Hat: [Open Source Governance Models](https://www.redhat.com/en/blog/understanding-open-source-governance-models).
+Members are not to be contacted individually. The GC may be reached through `tbd-open-source-governance@squareup.com` and is an available resource in mediation or for sensitive cases beyond the scope of project maintainers. It operates as a "Self-appointing council or board" as defined by Red Hat: [Open Source Governance Models](https://www.redhat.com/en/blog/understanding-open-source-governance-models).

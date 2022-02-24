@@ -14,7 +14,7 @@ project fits into it. It may be good to reference/link the broader architecture 
 
 Then maybe a dive into what this project does.
 
-Diagrams and other visuals are helpful here. Perhaps code snippits showing usage.
+Diagrams and other visuals are helpful here. Perhaps code snippets showing usage.
 
 Project leads should complete, alongside this `README`:
 * [CODEOWNERS](./CODEOWNERS) - set project lead(s)
@@ -30,7 +30,7 @@ The other files in this template repo may be used as-is:
 | Resource                                   | Description                                                                    |
 | ------------------------------------------ | ------------------------------------------------------------------------------ |
 | [CODEOWNERS](./CODEOWNERS)                 | Outlines the project lead(s)                                                   |
-| [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) | Expected behaviour for project contributors, promoting a welcoming environment |
+| [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) | Expected behavior for project contributors, promoting a welcoming environment |
 | [CONTRIBUTING.md](./CONTRIBUTING.md)       | Developer guide to build, test, run, access CI, chat, discuss, file issues     |
 | [GOVERNANCE.md](./GOVERNANCE.md)           | Project governance                                                             |
 | [LICENSE](./LICENSE)                       | Apache License, Version 2.0                                                    |
