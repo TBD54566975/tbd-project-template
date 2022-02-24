@@ -14,14 +14,15 @@ This guide is for you.
 
 ___***UPDATE TABLE OF PROJECT DEPS AND INSTALLATION NOTES***___
 
-| Requirement | Tested Version | Installation Instructions
-|-|-|-|
-| Go | 1.17.6|[go.dev](https://go.dev/doc/tutorial/compile-install)
-| Mage | 1.12.1|[magefile.org](https://magefile.org/)
+| Requirement | Tested Version | Installation Instructions                            |
+|-------------|----------------|------------------------------------------------------|
+| Go          | 1.17.6         |[go.dev](https://go.dev/doc/tutorial/compile-install) |
+| Mage        | 1.12.1         |[magefile.org](https://magefile.org/)                 |
+| Java        | 17.0.2         | Below, recommended via [SDKMan](https://sdkman.io)   |
 
 ### Go
 
-The `did-sdk` is written in Go, a modern, open source programming language. 
+This project is written in Go, a modern, open source programming language. 
 
 You may verify your `go` installation via the terminal:
 
@@ -61,17 +62,94 @@ built with: go1.17.6
 $> brew install mage
 ```
 
-## Build 
+### Java
+
+This project is written in Java, a typesafe, compiled programming language. 
+
+You may verify your `java` installation via the terminal by running `java -version`.
+
+If you do not have Java, we recommend installing it 
+via [SDKMan](https://sdkman.io/install). This is a project which will allow you 
+to easily install the Java Development Kit (JDK), runtime (JRE), and related frameworks, 
+build tools, and runtimes.
+
+After you've installed SDKMan, you may install Java:
+
+#### SDKMan (cross-platform instructions)
+
+```shell
+$> sdk install java 
+ ...
+Do you want java 17.0.2-open to be set as default? (Y/n): Y
+Setting java 17.0.2-open as default.
+```
+
+You may test your installation:
+
+```shell
+$> java -version
+openjdk version "17.0.2" 2022-01-18
+OpenJDK Runtime Environment (build 17.0.2+8-86)
+OpenJDK 64-Bit Server VM (build 17.0.2+8-86, mixed mode, sharing)
+```
+
+---
+**NOTE**
+
+You may additionally look for other Java versions to install by running `sdk list java`:
+
+...or other installation candidates like Apache Ant, Apache Maven, etc, by running `sdk list`.
+
+Consult the SDKMan documentation for more info.
+
+---
+
+## Build (Mage)
 
 ```
 $> mage build
 ```
 
-## Test
+## Build (Java / Gradle)
+
+### macOS / Linux
+```shell
+$> ./gradlew build
+```
+
+### Windows
+```shell
+$> gradlew.bat build
+```
+
+## Test (Mage)
 
 ```
 $> mage test
 ```
+
+## Test (Java / Gradle)
+
+### macOS / Linux
+```shell
+$> ./gradlew test
+```
+
+### Windows
+```shell
+$> gradlew.bat test
+```
+
+---
+**NOTE**
+
+You may also combine Gradle build targets in one call, like:
+
+```shell
+$> ./gradlew clean build test
+```
+
+---
 
 ## Communications
 
