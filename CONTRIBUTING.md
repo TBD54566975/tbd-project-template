@@ -41,6 +41,10 @@ If you do not have go, we recommend installing it by:
 $> brew install go
 ```
 
+#### Linux
+
+See the [Go Installation Documentation](https://go.dev/doc/install).
+
 ### Mage
 
 The build is run by Mage.
@@ -62,6 +66,10 @@ built with: go1.17.6
 ```
 $> brew install mage
 ```
+
+#### Linux
+
+Installation instructions are on the [Magefile home page](https://magefile.org/).
 
 ### Java
 
