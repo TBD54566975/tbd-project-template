@@ -3,7 +3,7 @@
 There are many ways to be an open source contributor, and we're here to help you on your way! You may:
 
 * Propose ideas in our 
-  [discussion forums](https://forums.tbd.website)
+  [discord](https://discord.gg/tbd)
 * Raise an issue or feature request in our [issue tracker](LINK_HERE)  ___***FIX LINK AND REMOVE THIS NOTICE***___
 * Help another contributor with one of their questions, or a code review
 * Suggest improvements to our Getting Started documentation by supplying a Pull Request
@@ -169,7 +169,7 @@ Anyone from the community is welcome (and encouraged!) to raise issues via
 
 ### Discussions
 
-Design discussions and proposals take place on our [discussion forums](https://forums.tbd.website).
+Design discussions and proposals take place in our [discord](https://discord.gg/tbd).
 
 We advocate an asynchronous, written debate model - so write up your thoughts and invite the community to join in!
 
