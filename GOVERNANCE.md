@@ -12,7 +12,7 @@
 
 Anyone may be a contributor to TBD projects. Contribution may take the form of:
 
-* Asking and answering questions on the development forums
+* Asking and answering questions on the Discord or GitHub Issues
 * Filing an issue
 * Offering a feature or bug fix via a Pull Request
 * Suggesting documentation improvements
