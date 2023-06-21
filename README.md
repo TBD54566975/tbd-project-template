@@ -19,6 +19,8 @@ Diagrams and other visuals are helpful here. Perhaps code snippets showing usage
 Project leads should complete, alongside this `README`:
 * [CODEOWNERS](./CODEOWNERS) - set project lead(s)
 * [CONTRIBUTING.md](./CONTRIBUTING.md) - Fill out how to: install prereqs, build, test, run, access CI, chat, discuss, file issues
+* [Bug-report.md](.github/ISSUE_TEMPLATE/bug-report.md) - Fill out `Assignees` add codeowners @names
+* [config.yml](.github/ISSUE_TEMPLATE/config.yml) - remove "(/add your discord channel..)" and replace the url with your Discord channel if applicable
 
 The other files in this template repo may be used as-is:
 * [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
